@@ -10,7 +10,8 @@ This is the second application of the udemy angular course, we use existing pipe
 
 * **DomSeguro:** returns a secure link for the use of videos.
 
->>**Contrasena:** encrypt and describe the password according to the argument we send.
+* **Contrasena:** encrypt and describe the password according to the argument we send.
+
 
 ## Development server
 
