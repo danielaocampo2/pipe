@@ -1,6 +1,14 @@
 # Pipes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+Angular application that uses existing pipes and other custom ones.
+
+pipes are used to transform data visually
+
+This is the second application of the udemy angular course, we use existing pipes and create the 3 pipes, which are the following:
+
+>>**capitalizado:** receives an argument that to know if we want to capitalize the entire string or only the first word
+>>**DomSeguro:** returns a secure link for the use of videos.
+>>**Contrasena:** encrypt and describe the password according to the argument we send.
 
 ## Development server
 
